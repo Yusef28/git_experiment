@@ -1,2 +1,7 @@
 Hi. Bye. Hi. After the pull, it did the === thing which is a rebase, which I had to skip to be able to push again.
+<<<<<<< HEAD
 So if I copy to github, it counts as coming from a different branch and I have to pulldown and skip rebasing before I add more code and push with git.
+=======
+So if I copy to github, it counts as coming from a different branch and I have to pulldown and skip rebasing before I add more code and push with git.
+So this update can't be pushed, until I pull down, rebase, retype it, and push.
+>>>>>>> ead3a39... seventh commit
